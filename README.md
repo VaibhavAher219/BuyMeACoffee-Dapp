@@ -1,6 +1,7 @@
 # Buy Me a Coffee dApp
 
 This repository contains a decentralized application (dApp) built on the Ethereum blockchain that allows users to send tips or donations by buying a virtual coffee. The dApp is implemented using Solidity for the smart contract and React.js for the frontend.
+The Project is live at : https://buyvaibhavacoffee.netlify.app/
 
 ## Smart Contract
 
