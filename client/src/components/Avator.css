@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Podkova:wght@600&family=Poppins:wght@400;600;900&display=swap");
+.b {
+  margin: 50px;
+  display: flex;
+  justify-content: center;
+}
+.Avator {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.name {
+  font-family: "Podkova";
+  font-size: 20px;
+  color:white;
+}
